@@ -11,4 +11,4 @@ homepage = "https://github.com/splav/cgns-sys"
 
 
 [build-dependencies]
-bindgen = "^0.52"
+bindgen = "^0.60"
